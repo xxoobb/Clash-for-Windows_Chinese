@@ -1,10 +1,3 @@
-**The repository was archived (Nov 3, 2023) due to: [README.md](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/CFW/README.md)**
-
-
-***
-### CFW线上文档副本：[Wiki](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki)
-***
-
 # Clash for Windows Chinese<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
@@ -12,7 +5,7 @@
 
 效果图
 
-[![photo](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/assets/77391690/78f7a8fd-925f-47bd-861f-deaba0a0a4ee)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
+[![photo](https://github.com/user-attachments/assets/9df18f14-e7e9-45cf-afad-b75229cd9ee1)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
 
 **支持的clash版本:**
 
@@ -24,10 +17,12 @@
 
 * 使用安装程序(Clash.for.Windows.Setup. ** . ** . ** .exe)安装的汉化版CFW将劫持更新，之后可直接通过应用内置的更新方式进行汉化版/软件更新
 * 使用安装包(Clash.for.Windows- ** . ** . ** -win.7z)请不要在解压时选择解压到当前文件夹，否则软件相关的所有文件将放到当前所在文件夹
-* app.asar需要替换掉对应版本的原版app.asar以完成汉化
-* 使用7z格式压缩包(app.7z)需要先进行解压，然后提取里面的app.asar并替换掉原有文件以完成汉化，即在节省流量
+* ~app.asar需要替换掉对应版本的原版app.asar以完成汉化~
+* ~使用7z格式压缩包(app.7z)需要先进行解压，然后提取里面的app.asar并替换掉原有文件以完成汉化，即在节省流量~
 
 **<details><summary>下载前你需要知晓的内容:</summary>**
+
+~**The repository was archived (Nov 3, 2023) due to: [README.md](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/CFW/README.md)**~
 
   **下载将代表你对以下内容无任何异议**
 
@@ -35,12 +30,12 @@
 
 *简单来说，这个库提供的Clash for Windows是修改过的，请在向原版Clash for Windows反馈漏洞前先更换回原版*
 
-**修改的方式/内容大致说明列表**
+**修改的方式/内容大致说明列表 (可能不适用于 Optimize 版本)**
 
     对Clash for Windows进行的修改:
       1, 修改"app.asar"文件中的"renderer.js"
       2, 修改"app.asar"文件中的"main.js"
-      3, 修改"app.asar"文件中的"zh-cn.js"
+      3, 修改"app.asar"文件中的其它内容(具体参见 https://github.com/Z-Siqi/Clash-for-Windows_Chinese/tree/main/app 目录下的所有 .md 文件)
     对Clash for Windows植入的第三方链接:
       1, https://github.com/Z-Siqi/Clash-for-Windows_Chinese-Attached
     对app.asar替换的文件:
@@ -75,6 +70,10 @@
         下载链接:
           In the Microsoft Store
 
+**Optimize (优化) 版本**
+
+源代码：https://github.com/Z-Siqi/Clash-for-Windows_Chinese/tree/main/app
+
 **重要内容**
 
     ----------------------------------------------------
@@ -104,20 +103,31 @@
 </details>
 
 *** 
+### 讨论/Discussions
+
+**[参与或发起讨论](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/discussions)**
+
+### 参与该项目的开发/工作
+*通过提出 Pull Request 将你的维护添加到下一个版本的更新里并成为这个库的共同维护者*
+
+**[这些issues非常需要您的帮助/贡献](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/issues?q=label%3A%22Need+Help%22+)**
+
+***
 
 #### 赞助商的广告
 
-[推荐使用OK加速器  优惠码:clash](https://zhuri.link/auth/register?code=6666)
+[![ads](https://github.com/user-attachments/assets/9fd317b9-33c4-493c-b869-67e1cb6a853c)](https://live.cute-cloud.de/register?code=uIyXpA5O)
 
-购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)
+[[CUTECLOUD](https://live.cute-cloud.de/register?code=uIyXpA5O)] 多年老牌机场，有试用，线路优秀，解锁全面，并提供丰富的共享账户。速度与稳定性很好，Youtube全天8K无压。
+[点击此处或图片直达](https://live.cute-cloud.de/register?code=uIyXpA5O)
 
 ***
 ### 快速导航
 [前往汉化下载界面](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
 
-[前往下载机场引流推广版 (去广告和更新检测)](https://github.com/Z-Siqi/CFW-custom-made)
+[Clash for Windows 线上文档副本](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki)
 
-[前往原版Clash for Windows下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+~[前往原版Clash for Windows下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)~
 
 #### 能够解压7z格式的软件
 
